@@ -1,6 +1,6 @@
 # Tangy AI
 ------------------------------------------------------
-![Main Project Image](../assets/1-tangyai-logo.png)
+<img src="../assets/1-tangyai-logo.png" width="100" height="100" alt="Tangy AI Logo">
 ------------------------------------------------------
 ## Summary
 Putting Gen-AI concepts of RAG and custom embeddings based on user's documents to generate related learning content, mainly flashcards and tests helping users a diverse learning experience with feedback on their test results. 

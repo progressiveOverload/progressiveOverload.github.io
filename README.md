@@ -2,6 +2,5 @@
 
 ## Tracking Projects, Work and Related Stuff
 
-### [Tangy AI App](./projects/1-tangy-ai.md)
-![Tangy AI Preview](./assets/1-tangyai-logo.png)
+### <img src="./assets/1-tangyai-logo.png" width="20" height="20" style="vertical-align: middle"> [Tangy AI App](./projects/1-tangy-ai.md)
 *January 2025*
