@@ -1,10 +1,10 @@
 # Tangy AI
-------------------------------------------------------
+
 <img src="../assets/1-tangyai-logo.png" width="100" height="100" alt="Tangy AI Logo">
-------------------------------------------------------
+
 ## Summary
 Putting Gen-AI concepts of RAG and custom embeddings based on user's documents to generate related learning content, mainly flashcards and tests helping users a diverse learning experience with feedback on their test results. 
-------------------------------------------------------
+
 ## Key Points
 * I feel kind of fascinated how some people are really quick to pick up new stuff. At the same time i was frustrated with learning topics that i have no motivation to learn. For example material science class in uni and physics wasn't my tea, and even though you study those topics feedback loop on learning always takes more time, making learning suck more ass on the run. So i wanted to include an explanation part to the uncorrect answers, so learner can try to understand by themselves to get to the right solution.
 

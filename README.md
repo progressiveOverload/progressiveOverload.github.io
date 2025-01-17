@@ -1,4 +1,3 @@
-# progressiveOverload.github.io
 
 ## Tracking Projects, Work and Related Stuff
 
