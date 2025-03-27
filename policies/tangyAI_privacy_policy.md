@@ -1,5 +1,9 @@
 **Privacy Policy**
 
+TANGY AI PRIVACY POLICY
+Vaynoir
+hello@vaynoir.com
+
 This privacy policy applies to the TangyAI app (hereby referred to as "Application") for mobile devices that was created by HanSolutions (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
@@ -68,6 +72,6 @@ By using the Application, you are consenting to the processing of your informati
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at cihanisikal@outlook.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hello@vaynoir.com
 
 * * *
