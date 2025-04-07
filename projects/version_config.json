@@ -1,7 +1,7 @@
 {
     "force_update": true,
     "min_version": "1.0.20",
-    "update_message": "A new version is available with important fixes. Please update to continue.",
+    "update_message": "A new version is available. Update to continue.",
     "ios_store_url": "https://apps.apple.com/app/id<your-ios-app-id>",
     "android_store_url": "https://play.google.com/store/apps/details?id=com.yourcompany.pixelly"
 }
